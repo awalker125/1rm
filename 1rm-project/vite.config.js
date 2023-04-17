@@ -15,5 +15,6 @@ export default defineConfig({
   //output into the root of the project for github pages
   build: {
     outDir: '../'
-  }
+  },
+  base: "/1rm"
 })
