@@ -5,7 +5,7 @@ import Calculator from './components/Calculator.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="./assets/1rep.jpg" width="125" height="125" />
+    <img alt="Vue logo" class="logo" src="./assets/1rm.drawio.svg" width="200" height="200" />
 
     <div class="wrapper">
       <Calculator/>
